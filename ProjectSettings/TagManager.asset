@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactive
+  - Crate
+  - Enemy
+  - Enemies colliders
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Obstacles
   - 
   - 
   - 
@@ -40,4 +44,28 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1093681105
+    locked: 0
+  - name: Back decorative
+    uniqueID: 735914171
+    locked: 0
+  - name: Front walls
+    uniqueID: 3575880161
+    locked: 0
+  - name: Front decorative
+    uniqueID: 1468704977
+    locked: 0
+  - name: Entities
+    uniqueID: 2012928739
+    locked: 0
+  - name: Back walls
+    uniqueID: 1617327921
+    locked: 0
+  - name: Interactive
+    uniqueID: 1887254455
+    locked: 0
+  - name: UI
+    uniqueID: 2730150311
     locked: 0
